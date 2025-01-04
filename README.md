@@ -1,4 +1,4 @@
-# uas-second-apk
+# uas-datamahasiswa-apk
 
 UAS Second Apps
 
@@ -21,6 +21,3 @@ Pilih opsi (1-7): 1
 c. User dapat menjalankan semua Menu Utama dengan normal tanpa adanya error program/aplikasi.
 
 
-Note : Development atau perubahan aplikasi ini bisa terjadi sewaktu-waktu.
-Thanks,
-Mas Alief
